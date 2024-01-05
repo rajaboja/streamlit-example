@@ -8,3 +8,5 @@ df = pd.DataFrame(
               })
 
 st.table(df)
+
+st.write("this is a test")
